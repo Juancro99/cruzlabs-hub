@@ -172,6 +172,18 @@ h1 {
   background: var(--accent-3);
 }
 
+.app-icon.violet {
+  background: #a78bfa;
+}
+
+.app-icon.blue {
+  background: #60a5fa;
+}
+
+.app-icon.green {
+  background: #86efac;
+}
+
 .app-icon.steel {
   background: #cbd5e1;
 }
